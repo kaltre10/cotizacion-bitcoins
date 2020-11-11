@@ -1,0 +1,8 @@
+body{
+	background-color: #ecf0f1;
+	font-family: "helvetica";
+}
+.title-bitfinex{
+	border-left: solid 4px #3498db;
+	background-color: #fff;
+}
